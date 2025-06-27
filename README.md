@@ -11,8 +11,8 @@ Este projeto implementa um agente de chat interativo em Python, usando LangChain
 
 1. Clone este repositório(tópico simulado, pois enviei em arquivo):  
    ```
-   git clone <URL_DO_REPOSITÓRIO>
-   cd <diretório>
+   git clone https://github.com/JabuS2/TesteTecnico
+   cd TesteTecnico
    ```
 2. Instale as dependências:  
    ```
